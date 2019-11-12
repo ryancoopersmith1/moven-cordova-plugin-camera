@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-camera",
+  "name": "moven-cordova-plugin-camera",
   "version": "4.1.0",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-camera",
+    "id": "moven-cordova-plugin-camera",
     "platforms": [
       "android",
       "ios",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-camera"
+    "url": "https://github.com/moven/moven-cordova-plugin-camera"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-camera/issues"
+    "url": "https://github.com/moven/moven-cordova-plugin-camera/issues"
   },
   "keywords": [
     "cordova",
